@@ -1,0 +1,8 @@
+{
+  "type": "azure",
+  "_model": "gpt-35-turbo-16k",
+  "model": "gpt-4-32k",
+  "endpoint": "https://alonopenaifrance.openai.azure.com/",
+  "apikey": "2d69c2b3c3c8401393c13c26f0c88fd4",
+  "org": "zionet"
+}
